@@ -1,5 +1,12 @@
+# Causeway: A message-oriented distributed debugger
+
+Stanley, Close and Miller have a paper from 2009 on a debugger for distributed
+systems.
+
+Link: https://www.hpl.hp.com/techreports/2009/HPL-2009-78.pdf
+
 # A prettier printer
 
 A paper on writing pretty printers: "A prettier printer" by Philip Wadler.
 
-Currently at: https://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf
+Link: https://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf
