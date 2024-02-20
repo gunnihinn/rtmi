@@ -1,0 +1,5 @@
+# A prettier printer
+
+A paper on writing pretty printers: "A prettier printer" by Philip Wadler.
+
+Currently at: https://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf
